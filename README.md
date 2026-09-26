@@ -16,7 +16,7 @@ Ingeniero de software enfocado en el diseño de arquitecturas backend escalables
 
 ### 🚀 Proyectos Destacados
 
-* **[[Control de Inventario — Mercado Libre](https://github.com/PrograMario12/ControlInventario)**
+* **[Control de Inventario — Mercado Libre](https://github.com/PrograMario12/ControlInventario)**
 Aplicación de escritorio para la gestión operativa y financiera de inventarios para vendedores de Mercado Libre.
 * **Stack:** Python 3.11+, PySide6, PostgreSQL (Docker & Neon), Ruff, Pytest.
 * **Características:** Auditoría completa mediante movimientos de stock inmutables y proceso batch de analítica aislada (transacciones `REPEATABLE READ`) para monitorear salud de inventario, velocidad de rotación, valuación de capital y anomalías de catálogo.
@@ -26,6 +26,7 @@ Aplicación de escritorio para la gestión operativa y financiera de inventarios
 Calculadora experimental cuya interfaz gráfica evoluciona dinámicamente según los patrones de uso del usuario mediante computación evolutiva.
 * **Stack:** JavaScript Vanilla (ES6+ Modules), HTML5, Canvas API, CSS Glassmorphism avanzado.
 * **Características:** Implementación de algoritmos genéticos en el cliente con cero dependencias; optimiza posición, escala y prominencia visual según frecuencia de clics y tiempos de reacción, persistiendo el ADN de la UI en almacenamiento local.
+
 
 * **[Asymmetric Snake AI](https://github.com/PrograMario12/snake-game)**
 Juego de Snake asimétrico en tiempo real donde un agente autónomo ofensivo prioriza el control territorial y el estrangulamiento táctico sobre la simple recolección de comida.
