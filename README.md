@@ -45,6 +45,6 @@ Juego de Snake asimétrico en tiempo real donde un agente autónomo ofensivo pri
 
 ### 🌐 Conectemos
 
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/marioadair12/)
+* **LinkedIn:** [linkedin.com/in/marioadair12](https://www.linkedin.com/in/marioadair12/)
 * **Email:** [marioadair.aj12@gmail.com](mailto:marioadair.aj12@gmail.com)
 
